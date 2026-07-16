@@ -1,0 +1,28 @@
+# Entornos y cachés Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Datos y checkpoints (pesados, no van a git)
+outputs/
+checkpoints/
+*.pth
+*.ckpt
+data/raw/
+data/processed/
+
+# Datasets de LeRobot (van al Hub, no a git)
+*.parquet
+recordings/
+
+# Configuración local / calibración de tu robot concreto
+.cache/
+
+# Sistema
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.idea/
