@@ -28,8 +28,8 @@ Ver [docs/setup.md](docs/setup.md) para instrucciones completas de instalación 
 ## Estructura del repo
 
 so101-vision-manipulation/
-├── docs/ # notas de hardware, setup, decisiones
-├── scripts/ # scripts propios (detección de color, calibración, etc.)
-├── configs/ # configuraciones de cámaras y robot
-└── README.md
+|-- docs/ # notas de hardware, setup, decisiones
+|-- scripts/ # scripts propios (detección de color, calibración, etc.)
+|-- configs/ # configuraciones de cámaras y robot
+|-- README.md
 
