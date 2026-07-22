@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Fila lejana - izquierda",
+    "x_mm": -150,
+    "y_mm": 300,
+    "joints": {
+      "shoulder_pan": -32.747252747252745,
+      "shoulder_lift": 82.1978021978022,
+      "elbow_flex": -93.53846153846153,
+      "wrist_flex": 90.37362637362638,
+      "wrist_roll": 22.9010989010989,
+      "gripper": 2.0861372812920593
+    }
+  },
+  {
+    "name": "Fila lejana - centro",
+    "x_mm": 0,
+    "y_mm": 300,
+    "joints": {
+      "shoulder_pan": -4.263736263736264,
+      "shoulder_lift": 82.1978021978022,
+      "elbow_flex": -93.53846153846153,
+      "wrist_flex": 102.15384615384616,
+      "wrist_roll": 21.23076923076923,
+      "gripper": 2.0861372812920593
+    }
+  },
+  {
+    "name": "Fila lejana - derecha",
+    "x_mm": 150,
+    "y_mm": 300,
+    "joints": {
+      "shoulder_pan": 21.582417582417584,
+      "shoulder_lift": 85.0989010989011,
+      "elbow_flex": -95.12087912087912,
+      "wrist_flex": 87.82417582417582,
+      "wrist_roll": 30.10989010989011,
+      "gripper": 2.0861372812920593
+    }
+  },
+  {
+    "name": "Fila media - izquierda",
+    "x_mm": -150,
+    "y_mm": 150,
+    "joints": {
+      "shoulder_pan": -53.31868131868132,
+      "shoulder_lift": 1.8461538461538463,
+      "elbow_flex": 37.89010989010989,
+      "wrist_flex": 49.05494505494506,
+      "wrist_roll": 12.351648351648352,
+      "gripper": 2.0861372812920593
+    }
+  },
+  {
+    "name": "Fila media - centro",
+    "x_mm": 0,
+    "y_mm": 150,
+    "joints": {
+      "shoulder_pan": -7.516483516483516,
+      "shoulder_lift": -33.84615384615385,
+      "elbow_flex": 74.81318681318682,
+      "wrist_flex": 45.362637362637365,
+      "wrist_roll": 30.98901098901099,
+      "gripper": 2.0861372812920593
+    }
+  },
+  {
+    "name": "Fila media - derecha",
+    "x_mm": 150,
+    "y_mm": 150,
+    "joints": {
+      "shoulder_pan": 39.956043956043956,
+      "shoulder_lift": -16.87912087912088,
+      "elbow_flex": 72.17582417582418,
+      "wrist_flex": 10.725274725274724,
+      "wrist_roll": 35.2967032967033,
+      "gripper": 2.0861372812920593
+    }
+  },
+  {
+    "name": "Fila cercana - izquierda",
+    "x_mm": -150,
+    "y_mm": 0,
+    "joints": {
+      "shoulder_pan": -97.27472527472527,
+      "shoulder_lift": -3.78021978021978,
+      "elbow_flex": 44.747252747252745,
+      "wrist_flex": 65.58241758241758,
+      "wrist_roll": 7.34065934065934,
+      "gripper": 1.8169582772543742
+    }
+  },
+  {
+    "name": "Fila cercana - derecha",
+    "x_mm": 150,
+    "y_mm": 0,
+    "joints": {
+      "shoulder_pan": 85.14285714285714,
+      "shoulder_lift": -30.065934065934066,
+      "elbow_flex": 68.48351648351648,
+      "wrist_flex": 50.72527472527472,
+      "wrist_roll": 20.0,
+      "gripper": 1.8169582772543742
+    }
+  }
+]
